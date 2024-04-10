@@ -1,1 +1,1 @@
-hi?
+Simple notes web app
